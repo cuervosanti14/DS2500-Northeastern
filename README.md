@@ -1,7 +1,7 @@
-# DS2500: Intermediate Programming with Data
-**Northeastern University — Spring 2026**
-**Professor:** Deahan Yu
-**Student:** Santiago Cuervo | cuervopaez.s@northeastern.edu
+# DS2500: Intermediate Programming with Data  
+**Northeastern University — Spring 2026**  
+**Professor:** Deahan Yu  
+**Student:** Santiago Cuervo | cuervopaez.s@northeastern.edu  
 
 ---
 
@@ -61,24 +61,24 @@ ds2500/
 
 ## Homeworks
 
-### HW01 — Pixar Films & Ratings *(Week 4)*
-**Topics:** Python fundamentals — dictionaries, lists, strings, loops, conditionals, lambda functions, file I/O
-**Dataset:** `pixar_films.csv` — 27 Pixar films with release dates, runtimes, MPA ratings, and critic scores
-**Key tasks:** Data loading and cleaning, Rotten Tomatoes score statistics (min/max/avg), popular release month, runtime categorization, original vs. sequel comparison, composite scoring using lambda
+### HW01 — Pixar Films & Ratings *(Week 4)*  
+**Topics:** Python fundamentals — dictionaries, lists, strings, loops, conditionals, lambda functions, file I/O 
+**Dataset:** `pixar_films.csv` — 27 Pixar films with release dates, runtimes, MPA ratings, and critic scores  
+**Key tasks:** Data loading and cleaning, Rotten Tomatoes score statistics (min/max/avg), popular release   month, runtime categorization, original vs. sequel comparison, composite scoring using lambda  
 
 ---
 
 ### HW02 — English Women's Soccer Goals *(Week 7)*
-**Topics:** OOP, data visualization, descriptive statistics
-**Dataset:** `wsl_goals_2324.csv` — per-game goals for 12 WSL teams over the 2023–24 season
-**Key tasks:** Build a `Team` class, compute mean/median/mode/variance/standard deviation from scratch, find most consistent team (coefficient of variation), longest scoring streak, most improved team, animated cumulative goals scatter plot
+**Topics:** OOP, data visualization, descriptive statistics  
+**Dataset:** `wsl_goals_2324.csv` — per-game goals for 12 WSL teams over the 2023–24 season  
+**Key tasks:** Build a `Team` class, compute mean/median/mode/variance/standard deviation from scratch, find   most consistent team (coefficient of variation), longest scoring streak, most improved team, animated   cumulative goals scatter plot  
 
 ---
 
-### HW03 — KNN Classifier from Scratch *(Week 10)*
-**Topics:** KNN algorithm, Euclidean distance, data preprocessing, model evaluation (F1 score)
-**Dataset:** Shape measurement dataset — 16 geometric features, binary classification target
-**Key tasks:** Implement full `KNN` class from scratch (distance computation, neighbor selection, majority vote), EDA and preprocessing, K optimization, generate test predictions scored on F1
+### HW03 — KNN Classifier from Scratch *(Week 10)*  
+**Topics:** KNN algorithm, Euclidean distance, data preprocessing, model evaluation (F1 score)  
+**Dataset:** Shape measurement dataset — 16 geometric features, binary classification target  
+**Key tasks:** Implement full `KNN` class from scratch (distance computation, neighbor selection, majority   vote), EDA and preprocessing, K optimization, generate test predictions scored on F1  
 
 ---
 
