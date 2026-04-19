@@ -62,7 +62,7 @@ ds2500/
 ## Homeworks
 
 ### HW01 — Pixar Films & Ratings *(Week 4)*  
-**Topics:** Python fundamentals — dictionaries, lists, strings, loops, conditionals, lambda functions, file I/O 
+**Topics:** Python fundamentals — dictionaries, lists, strings, loops, conditionals, lambda functions, file I/O  
 **Dataset:** `pixar_films.csv` — 27 Pixar films with release dates, runtimes, MPA ratings, and critic scores  
 **Key tasks:** Data loading and cleaning, Rotten Tomatoes score statistics (min/max/avg), popular release   month, runtime categorization, original vs. sequel comparison, composite scoring using lambda  
 
