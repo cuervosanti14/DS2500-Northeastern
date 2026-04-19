@@ -46,7 +46,6 @@ ds2500/
 
 | Week | Topics |
 |------|--------|
-| 1 | Introduction |
 | 2 | Python fundamentals I — variable assignment, commenting, strings, lists, tuples |
 | 3 | Python fundamentals II — dictionaries, conditionals, loops |
 | 4 | Python fundamentals III — functions, `main()`, CSV; advanced concepts — variable scope, lambda functions, list comprehension, error handling |
