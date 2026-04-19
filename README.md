@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/26863338/README.1.md)
 # DS2500: Intermediate Programming with Data
 **Northeastern University — Spring 2026**
 **Professor:** Deahan Yu
