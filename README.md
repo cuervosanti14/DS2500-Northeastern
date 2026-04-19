@@ -49,7 +49,7 @@ ds2500/
 | 2 | Python fundamentals I — variable assignment, commenting, strings, lists, tuples |
 | 3 | Python fundamentals II — dictionaries, conditionals, loops |
 | 4 | Python fundamentals III — functions, `main()`, CSV; advanced concepts — variable scope, lambda functions, list comprehension, error handling |
-| 5 | OOP — classes, attributes, methods, `__init__`, `__str__`, encapsulation; project ideation |
+| 5 | OOP — classes, attributes, methods, `__init__`, `__str__`, encapsulation |
 | 6 | Google Colab, matplotlib, pandas; web scraping — HTML, `requests`, `BeautifulSoup`, `robots.txt` |
 | 7 | APIs & JSON — GET/POST, query parameters, `.json()`; Statistics I — data types, central tendency (mean, median, mode) |
 | 8 | Statistics II — data distributions, visualization plots (line, bar, histogram, box plot, scatter), IQR, outliers, standard error |
@@ -64,21 +64,21 @@ ds2500/
 ### HW01 — Pixar Films & Ratings *(Week 4)*  
 **Topics:** Python fundamentals — dictionaries, lists, strings, loops, conditionals, lambda functions, file I/O  
 **Dataset:** `pixar_films.csv` — 27 Pixar films with release dates, runtimes, MPA ratings, and critic scores  
-**Key tasks:** Data loading and cleaning, Rotten Tomatoes score statistics (min/max/avg), popular release   month, runtime categorization, original vs. sequel comparison, composite scoring using lambda  
+**Key tasks:** Data loading and cleaning, Rotten Tomatoes score statistics (min/max/avg), popular release month, runtime categorization, original vs. sequel comparison, composite scoring using lambda  
 
 ---
 
 ### HW02 — English Women's Soccer Goals *(Week 7)*
 **Topics:** OOP, data visualization, descriptive statistics  
 **Dataset:** `wsl_goals_2324.csv` — per-game goals for 12 WSL teams over the 2023–24 season  
-**Key tasks:** Build a `Team` class, compute mean/median/mode/variance/standard deviation from scratch, find   most consistent team (coefficient of variation), longest scoring streak, most improved team, animated   cumulative goals scatter plot  
+**Key tasks:** Build a `Team` class, compute mean/median/mode/variance/standard deviation from scratch, find most consistent team (coefficient of variation), longest scoring streak, most improved team, animated cumulative goals scatter plot  
 
 ---
 
 ### HW03 — KNN Classifier from Scratch *(Week 10)*  
 **Topics:** KNN algorithm, Euclidean distance, data preprocessing, model evaluation (F1 score)  
 **Dataset:** Shape measurement dataset — 16 geometric features, binary classification target  
-**Key tasks:** Implement full `KNN` class from scratch (distance computation, neighbor selection, majority   vote), EDA and preprocessing, K optimization, generate test predictions scored on F1  
+**Key tasks:** Implement full `KNN` class from scratch (distance computation, neighbor selection, majority vote), EDA and preprocessing, K optimization, generate test predictions scored on F1  
 
 ---
 
