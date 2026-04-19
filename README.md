@@ -99,6 +99,19 @@ ds2500/
 
 ---
 
+## Technologies & Tools
+
+| Category | Tools |
+|---|---|
+| **Language** | Python 3 |
+| **Data Manipulation** | pandas, NumPy |
+| **Visualization** | matplotlib, seaborn |
+| **Machine Learning** | scikit-learn |
+| **Algorithms (from scratch)** | KNN, statistics (mean/median/mode/variance/std) |
+| **Other** | Google Colab, Jupyter Notebook, JSON/APIs, BeautifulSoup, requests |
+
+---
+
 ## Team Project
 
 The group project for this course was completed in a separate repository. It investigates how well publicly available pre-match statistics predict English Premier League match outcomes (Win, Draw, Loss) across four analytical angles — SPI gap, home advantage, possession, and draw predictability.
